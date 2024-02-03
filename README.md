@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**mog1el/mog1el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+I'm Michał Mogielnicki - a high school student from Warsaw (Probably)(Sometimes)(Maybe I am not). 
+MMA and karate enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My pathway 🗺️
+
+* 🏆 WIN
+
+## My plan B 🔃
+
+* THERE IS NO SUCH THING AS PLAN B
+
+## What am I doing right now?
+
+* 🔭 Currently learning pentesting
+* 🏫 I am enrolled in HS (extended maths, physics, english, spanish)
+
+## My skills 🗞️
+
+* Python
+* Javascript
+* Powershell
+* Basic pentesting
+* HTML, CSS
+* React.js
+* Basic cryptography
+* Scripting
