@@ -9,10 +9,6 @@ MMA and karate enthusiast
 
 * 🏆 WIN
 
-## My plan B 🔃
-
-* THERE IS NO SUCH THING AS PLAN B
-
 ## What am I doing right now?
 
 * 🔭 Currently learning pentesting
