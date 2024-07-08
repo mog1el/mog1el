@@ -11,7 +11,6 @@ MMA and karate enthusiast
 
 ## What am I doing right now?
 
-* 🔭 Currently learning pentesting
 * 🏫 I am enrolled in HS (extended maths, physics, english, spanish)
 
 ## My skills 🗞️
