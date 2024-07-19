@@ -7,11 +7,14 @@ MMA and karate enthusiast
 
 ## My pathway 🗺️
 
-* 🏆 WIN
+* Study Mathematics/Comp Sci (preferably both)
+* Go for a Phd in AI/ML
+* See what the future brings
 
 ## What am I doing right now?
 
 * 🏫 I am enrolled in HS (extended maths, physics, english, spanish)
+* Applying to college
 
 ## My skills 🗞️
 
