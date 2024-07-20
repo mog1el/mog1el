@@ -7,7 +7,7 @@ MMA and karate enthusiast
 
 ## My pathway 🗺️
 
-* Study Mathematics/Comp Sci (preferably both)
+* Study Mathematics/Comp Sci
 * Go for a Phd in AI/ML
 * See what the future brings
 
