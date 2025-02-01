@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mog1el&label=Profile%20views&color=0e75b6&style=flat" alt="mog1el" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mog1el" alt="mog1el" /></a> </p>
-
 - 🌱 I’m currently learning **Probability ∧ Statistical Physics**
 
 - 📫 How to reach me **m.mogielnicki@gmail.com**
