@@ -1,6 +1,6 @@
 # Michał — Theoretical Physicist (in 3–7 business years)
 
-> Be me
+'> Be me'
 > Retired from high school
 > Fluent in Python, English, LaTex, Spanish, Polish
 > Every professor's worst nightmare: confident, curious, and uncredentialed
