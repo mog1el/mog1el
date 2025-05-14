@@ -5,8 +5,7 @@
 • Fluent in Python, English, LaTeX, Spanish, Polish  
 • Every professor's worst nightmare: confident, curious, and uncredentialed  
 • Use Arch btw  
-• Try to exit vim  
-• Fail  
-• Run away to a remote cabin in the mountains  
+• Learn weird ideas for something called "physics"
+• Still waiting for Nature to return my calls and reveal the truth  
 
 🛑 Not peer-reviewed. Not peer-reviewable.
