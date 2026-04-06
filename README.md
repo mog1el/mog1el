@@ -2,6 +2,7 @@
 **Theoretical Physics @ Trinity College Dublin**
 
 ## Currently
+* **Learning for exams**
 * **PhysLib:** Formalizing Ideal Fluids in Lean 4
 
 ## Tools used
