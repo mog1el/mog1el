@@ -2,9 +2,8 @@
 **Theoretical Physics @ Trinity College Dublin**
 
 ## Currently
-* **Learning for exams**
-* **PhysLib:** Formalizing Ideal Fluids in Lean 4
-
+* **Internship at AxiomMath**
+  
 ## Tools used
 * **System:** Gentoo Linux
 * **Languages:** Lean 4, Python, LaTeX
@@ -14,5 +13,6 @@
 <summary><b>Archive</b></summary>
 
 * Astrophysics research @ Astronomical Observatory of the University of Warsaw (OAUW)
+* **PhysLib:** Formalizing Ideal Fluids in Lean 4
 
 </details>
