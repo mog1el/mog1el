@@ -12,7 +12,7 @@
 <details>
 <summary><b>Archive</b></summary>
 
-* Astrophysics research @ Astronomical Observatory of the University of Warsaw (OAUW)
 * **PhysLib:** Formalizing Ideal Fluids in Lean 4
+* Astrophysics research @ Astronomical Observatory of the University of Warsaw (OAUW)
 
 </details>
