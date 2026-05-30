@@ -2,7 +2,7 @@
 **Theoretical Physics @ Trinity College Dublin**
 
 ## Currently
-* **Internship at AxiomMath**
+* **Research Engineer Intern @ AxiomMath**
   
 ## Tools used
 * **System:** Gentoo Linux
