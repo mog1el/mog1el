@@ -1,4 +1,4 @@
-# Michał Mogielnicki
+# [Michał Mogielnicki](https://mogielnicki.com/)
 **Theoretical Physics @ Trinity College Dublin**
 
 ## Currently
@@ -14,6 +14,6 @@
   
 * **System:** Gentoo Linux
 * **PhysLib:** Formalizing Ideal Fluids in Lean 4
-* Astrophysics research @ Astronomical Observatory of the University of Warsaw (OAUW)
+* Student researcher @ Astronomical Observatory of the University of Warsaw (OAUW)
 
 </details>
