@@ -5,7 +5,7 @@
 * **Research Engineer Intern @ AxiomMath**
   
 ## Tools used
-* **System:** OpenBSD
+* **System:** Artix
 * **Languages:** Lean 4, Python, LaTeX
 * **Editors:** NeoVim, VSCodium
 
