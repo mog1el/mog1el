@@ -6,8 +6,8 @@
   
 ## Tools used
 * **System:** Artix
-* **Languages:** Lean 4, Python, LaTeX
-* **Editors:** NeoVim, VSCodium
+* **Languages:** Lean 4, Python
+* **Editors:** nvim
 
 <details>
 <summary><b>Archive</b></summary>
